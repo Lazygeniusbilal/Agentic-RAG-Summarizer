@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain_openai
+langgraph
+pypdf
+bs4
+lxml
+fpdf
